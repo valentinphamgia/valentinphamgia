@@ -33,11 +33,11 @@ I am interested in exploring quantitative finance and developing projects whose 
 
 ## Selected project
 
-### [Scrapingress — Event Activity & Behavioural Clustering](https://github.com/valentinphamgia/scrapingress)
+### [Scrapingress — Event Activity & Behavioural Clustering](https://github.com/valentinphamgia/scrapingress-analysis)
 
 Refactoring and extension of a four-student ARTISHOW project at Télécom Paris, originally conducted for Julien Morel. Python analysis with K-means, Gaussian mixtures and DBSCAN, including resampling, temporal consistency and sensitivity checks.
 
-[Read the aggregate real-event conclusions](https://github.com/valentinphamgia/scrapingress/blob/main/reports/CONCLUSIONS.md). Public code and a runnable synthetic demonstration; the original database and individual results remain private.
+[Read the aggregate real-event conclusions](https://github.com/valentinphamgia/scrapingress-analysis/blob/main/reports/CONCLUSIONS.md). Public code and a runnable synthetic demonstration; the original database and individual results remain private.
 
 ## Beyond coursework
 
