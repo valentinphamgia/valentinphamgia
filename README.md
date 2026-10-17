@@ -1,27 +1,40 @@
-# Valentin Phamgia
+# Valentin Pham-Gia
 
-**Mathematics · Data · Quantitative Finance**
+**Engineering student at Télécom Paris · Mathematics & Data Analysis**
 
-Engineering student at **Télécom Paris**, following an intensive mathematics and physics preparatory programme (MP*). Exploring quantitative finance through probability, statistics, optimisation and reproducible programming projects.
+I study engineering at **Télécom Paris — Institut Polytechnique de Paris** (2024–2028, expected), following an MPSI/MP* preparatory programme at IPESUP. My background combines mathematics, hands-on data analysis, teaching and entrepreneurship.
 
-My background combines hands-on data analysis and entrepreneurship. I am building on that experience to develop a deeper understanding of financial modelling and empirical research.
+I am interested in exploring quantitative finance and developing projects whose mathematics, assumptions and limitations I can explain.
 
 ## Experience
 
-- **Data Analyst · Nasta Pet Food** — Around ten months in a full-time, remote role as the company's sole Data Analyst, working directly with operations, e-commerce and executive leadership. Analysed customer acquisition and retention, churn, segmentation, promotions, and commercial and financial performance. Collected, cleaned and structured data, conducted competitor analyses, and presented findings to leadership. Also analysed warehouse order picking to support operational improvements.
-- **Co-founder · Saclayment Bon** — Led a student catering and events business, working on pricing, costs, margins, logistics and customer relationships. Operations ended in 2025.
-- **INNOV NIGHT 2026** — Winner of the Institut Polytechnique de Paris hackathon.
+- **Data Analyst · Nasta Pet Food | September 2025–June 2026** — Full-time, fixed-term, hybrid role as the company's sole Data Analyst, working with operations, e-commerce and executive leadership. Analysed customer acquisition and retention, churn, segmentation, promotions, and commercial and financial performance. Collected, cleaned and structured data, conducted market and competitor analyses, and presented findings to leadership. Also analysed warehouse picking and packaging to support operational improvements.
+- **Company evaluation · Télécom Paris incubator | December 2024–May 2025** — Quantitative and qualitative analysis of agritech companies to support the selection process for the Digital Technologies Award.
+- **Mathematics teacher and oral examiner · IPESUP & ISEP | 2024–2025** — Conducted MPSI mathematics oral examinations and provided private tuition. Wrote mathematics course notes and exercises for Axonia.
+- **Co-founder and director · Saclayment Bon | 2024–2025** — Built a student catering business, from validating customer needs and developing the offer to managing pricing, costs, margins and logistics. Developed B2C distribution and B2B catering for student and institutional events, including partnerships with associations at HEC, CentraleSupélec and Paris-Saclay.
+- **Data science discovery internship · Quantmetry | June–July 2019** — Introduction to the work of data scientists and to machine learning.
+- **Culinary internships | 2020–2022** — Kitchen experience at Pantagruel, Vesper, La Closerie des Lilas and Le Bon Georges.
+
+## Education
+
+- **Télécom Paris** — Engineering programme, 2024–2028 (expected).
+- **IPESUP** — MPSI/MP* preparatory programme, September 2022–July 2024.
+- **Ferrandi Paris** — Culinary arts studies within the bachelor's programme, 2021–2022, including an introduction to accounting for restaurant entrepreneurship.
 
 ## Technical background
 
-Programming languages: Python, OCaml and SQL.
+- **Programming:** Python, OCaml and SQL.
+- **Scientific computing and data analysis:** NumPy, pandas, SciPy and Matplotlib.
+- **Reporting and mathematical writing:** Excel, PowerPoint and LaTeX.
+- **Academic coursework:** probability, measure theory, conditional expectation, statistics, statistical learning, optimisation and algorithms.
+- **Languages:** French and English (C1).
 
-Scientific computing and data analysis: NumPy, pandas, SciPy and Matplotlib.
+## Beyond coursework
 
-Data analysis and reporting: Excel.
+Winner of **INNOV NIGHT 2026**, the Institut Polytechnique de Paris hackathon. Six years of competitive badminton, and a longstanding interest in gastronomy.
 
-Academic work includes probability, measure theory, conditional expectation, statistics, statistical learning, optimisation and algorithms. These are areas of study; project repositories will document the specific methods I have implemented and evaluated.
+## Project approach
 
-## Research approach
+I aim to publish reproducible projects with explicit assumptions, meaningful baselines, verifiable results and documented limitations, using public or synthetic data.
 
-I aim to make each published project reproducible, with explicit assumptions, meaningful baselines, verifiable results and clearly documented limitations. Public repositories will use public or synthetic data, never confidential employer datasets.
+[Portfolio](https://valentinphamgia.github.io/) · [LinkedIn](https://www.linkedin.com/in/valentin-pham-gia-5476561ba/)
