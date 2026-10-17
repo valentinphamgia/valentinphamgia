@@ -18,7 +18,7 @@ Programming languages: Python, OCaml and SQL.
 
 Scientific computing and data analysis: NumPy, pandas, SciPy and Matplotlib.
 
-Data analysis and reporting: Excel and Power BI.
+Data analysis and reporting: Excel.
 
 Academic work includes probability, measure theory, conditional expectation, statistics, statistical learning, optimisation and algorithms. These are areas of study; project repositories will document the specific methods I have implemented and evaluated.
 
