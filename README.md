@@ -31,6 +31,14 @@ I am interested in exploring quantitative finance and developing projects whose 
 - **Academic coursework:** algebra, probability, measure theory, conditional expectation, statistics, statistical learning, optimisation and algorithms.
 - **Languages:** French and English (C1).
 
+## Selected project
+
+### [Scrapingress — Event Activity & Behavioural Clustering](https://github.com/valentinphamgia/scrapingress)
+
+Refactoring and extension of a four-student ARTISHOW project at Télécom Paris, originally conducted for Julien Morel. Python analysis with K-means, Gaussian mixtures and DBSCAN, including resampling, temporal consistency and sensitivity checks.
+
+[Read the aggregate real-event conclusions](https://github.com/valentinphamgia/scrapingress/blob/main/reports/CONCLUSIONS.md). Public code and a runnable synthetic demonstration; the original database and individual results remain private.
+
 ## Beyond coursework
 
 Winner of **INNOV NIGHT 2026**, the Institut Polytechnique de Paris hackathon. Six years of competitive badminton, and a longstanding interest in gastronomy.
