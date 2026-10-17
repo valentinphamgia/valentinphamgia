@@ -17,7 +17,9 @@ I am interested in exploring quantitative finance and developing projects whose 
 
 ## Education
 
-- **Télécom Paris** — Engineering programme, 2024–2028 (expected).
+- **Télécom Paris** — Engineering programme, 2024–2028 (expected). Currently following the **ACCQ** and **MACS** tracks:
+  - [**ACCQ — Applied Algebra**](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/algebre-appliquee): an algebra-based curriculum covering cryptography, coding and quantum information.
+  - [**MACS — Stochastic Modelling and Scientific Computing**](https://www.telecom-paris.fr/fr/ingenieur/formation/2e-annee-orientation/modelisation-aleatoire-calcul-scientifique): a curriculum in probability, statistics, stochastic modelling and scientific computing.
 - **IPESUP** — MPSI/MP* preparatory programme, September 2022–July 2024.
 - **Ferrandi Paris** — Culinary arts studies within the bachelor's programme, 2021–2022, including an introduction to accounting for restaurant entrepreneurship.
 
@@ -26,7 +28,7 @@ I am interested in exploring quantitative finance and developing projects whose 
 - **Programming:** Python, OCaml and SQL.
 - **Scientific computing and data analysis:** NumPy, pandas, SciPy and Matplotlib.
 - **Reporting and mathematical writing:** Excel, PowerPoint and LaTeX.
-- **Academic coursework:** probability, measure theory, conditional expectation, statistics, statistical learning, optimisation and algorithms.
+- **Academic coursework:** algebra, probability, measure theory, conditional expectation, statistics, statistical learning, optimisation and algorithms.
 - **Languages:** French and English (C1).
 
 ## Beyond coursework
